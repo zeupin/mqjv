@@ -1,0 +1,8 @@
+.mqjv { display: block; text-align: center; padding: 1rem 0; }
+.mqjv a { text-decoration: none; color: inherit; }
+
+.mqjv-icon { display: block; margin-left: auto; margin-right: auto; }
+
+.mqjv-title { font-weight: bold; font-size: 1.5rem; line-height: 2rem; margin: 1rem 0 1rem 0; color: #333; }
+
+.mqjv-subtitle { font-weight: bold; font-size: 1rem; line-height: 2rem; color: #bbb; }
